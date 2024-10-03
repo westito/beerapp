@@ -1,0 +1,5 @@
+include: package:strict/analysis_options.yaml
+
+analyzer:
+  errors:
+    sort_constructors_first: ignore
